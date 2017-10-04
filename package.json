@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/adorableio/react-expanjo#readme",
   "devDependencies": {
-    "@storybook/react": "^3.3.0-alpha.1",
+    "@storybook/addon-actions": "^3.2.12",
+    "@storybook/react": "^3.3.0-alpha.2",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
